@@ -3,6 +3,6 @@ install: skip
 
 script:
 - uname -a
-- telnet -v
+- ssh -vvv mooltipass-tests.com -p54433
 
 

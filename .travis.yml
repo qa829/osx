@@ -3,6 +3,5 @@ install: skip
 
 script:
 - uname -a
-- ssh -vvv mooltipass-tests.com -p54433
 
 
